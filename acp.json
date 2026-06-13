@@ -1,0 +1,22 @@
+{
+  "acpVersion": "0.1",
+  "agent": {
+    "name": "dataprivacyof",
+    "description": "AI-native privacy compliance \u2014 GDPR + EU AI Act.",
+    "version": "0.1.0",
+    "provider": "CSOAI-ORG",
+    "interfaces": [
+      {
+        "type": "a2a",
+        "url": "https://dataprivacyof.ai"
+      }
+    ],
+    "capabilities": [
+      "dataprivacy-ai-mcp",
+      "gdpr-compliance-ai-mcp",
+      "hipaa-compliance-mcp",
+      "a2a-mesh",
+      "memoria-commit"
+    ]
+  }
+}
