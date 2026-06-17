@@ -1,0 +1,14 @@
+{
+  "name": "dataprivacyof.ai",
+  "title": "Data Privacy of AI — Privacy by Design",
+  "description": "Privacy-preserving AI, data protection compliance (GDPR, CCPA, DPDP), and consent management for the federation.",
+  "cluster": "COMPLIANCE",
+  "servers": [
+        { "id": "privacy-mcp.sov3.meok.ai", "url": "https://privacy-mcp.sov3.meok.ai/", "protocol": "mcp-1.0" },
+    { "id": "consent-mcp.sov3.meok.ai", "url": "https://consent-mcp.sov3.meok.ai/", "protocol": "mcp-1.0" },
+    { "id": "data-protection-mcp.sov3.meok.ai", "url": "https://data-protection-mcp.sov3.meok.ai/", "protocol": "mcp-1.0" }
+  ],
+  "registrar": "https://mcp-registry.sov3.meok.ai/register",
+  "protocol": "https://openMCP.ai/protocol",
+  "$schema": "https://openMCP.ai/schemas/mcp-server-list.json"
+}
